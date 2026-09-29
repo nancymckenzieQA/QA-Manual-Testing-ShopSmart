@@ -1,8 +1,7 @@
 ## Manual Quality Assurance Testing Portfolio Project
 
- ![SauceDemo Manual QA Testing Portfolio](Portfolio -SauceDemo-Image Sep 29, 2026 at 10_03_35 AM.png)
+ ![SauceDemo Manual QA Testing Portfolio](SauceDemo_QA_Portfolio_Cover.png)
  
-
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual%20QA-blue)
 ![Project](https://img.shields.io/badge/Project-E--Commerce-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
